@@ -106,4 +106,4 @@ def process_video(video_path):
     cv2.destroyAllWindows()
 
 # Run the detection
-process_video("video11.mp4")
+process_video("data/video11.mp4")

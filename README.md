@@ -66,11 +66,11 @@ Below are sample output images from the detection system:
 
 ### Abandoned Object Detection Window
 
-![Abandoned Object Detection Example](Output1.png)
+![Abandoned Object Detection Example](result/Output1.png)
 
 ### Foreground Mask Window
 
-![Foreground Mask Example](Output2.png)
+![Foreground Mask Example](result/Output2.png)
 
 - **Blue Box:** Object is being tracked.
 - **Red Box:** Object is considered abandoned.
